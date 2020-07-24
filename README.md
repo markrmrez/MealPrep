@@ -11,6 +11,7 @@ This project will be composed of 3 main parts:
   
 The project will mainly be built using:
   - Angular
+  - React JS
   - .net core
   - xcode/swift
  
