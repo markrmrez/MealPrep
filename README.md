@@ -9,6 +9,7 @@ The project is focused on the web client which will mainly be built using Angula
 
 ### To Run the solution
 -install node modules 
-  npm install
+  --npm install
+  
 -start angular
-  npm start
+  --npm start
